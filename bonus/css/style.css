@@ -3,9 +3,10 @@ body {
     margin: 0;
 }
 
-#bonus {
+#bonus { /*parte bonus*/
     margin: auto;
-    padding: 10%;
+    padding-left: 10%;
+    padding-right: 10%;
 }
 
 .intestazione { /* inizio intestazione */
