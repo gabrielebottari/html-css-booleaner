@@ -36,3 +36,7 @@
     font-size: 12px;
     margin-top: 0;
 }
+
+.evidenziato {
+    background-color: yellow;
+}
